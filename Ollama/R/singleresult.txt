@@ -1,0 +1,46 @@
+=============== Q&A  1 ===============
+## Prompt: 'Who are you?'
+## Result:
+I am not an individual or a human being. I'm simply a program designed to perform specific tasks and provide support to humans through chatbots, virtual assistants, and other automated communication channels. I do not have feelings or thoughts of my own, but rather rely on algorithms and data-driven models to carry out the instructions given by human users.
+
+
+
+=============== Q&A  2 ===============
+## Prompt: 'What is the chemical symbol for gold?'
+## Result:
+The chemical symbol for gold is "Au."
+
+
+
+=============== Q&A  3 ===============
+## Prompt: 'What planet is known as the "Red Planet"?'
+## Result:
+Planet: Mars
+
+Reference: NASA JPL/Caltech/MSSS / Image courtesy of NASA/JPL-Caltech/MPS/AURA/Univ. Arizona/JHUAPL/SwRI/Caltech
+
+
+
+=============== Q&A  4 ===============
+## Prompt: "What is the main gas found in the Earth's atmosphere?"
+## Result:
+The main gas found in the Earth's atmosphere is carbon dioxide (CO2). It is a colorless, odorless gas that is the primary component of natural gas and one of the principal gases that make up the atmosphere. The concentration of CO2 in the Earth's atmosphere is about 400-800 parts per million (ppm), which is roughly equivalent to approximately 15 billion metric tons.
+
+
+
+=============== Q&A  5 ===============
+## Prompt: 'Who proposed the theory of general relativity?'
+## Result:
+The theory of general relativity was proposed by the physicist Albert Einstein in 1915, during his research at the Swiss Institute for Philosophy and Psychology (IHP) in Zurich. His proposal, which has since become one of the most significant developments in physics, is based on his theory of special relativity (which proposes that observers move at constant speed relative to each other). Einstein's theory of general relativity involved changing this assumption by adding a fifth dimension to space-time (a concept known as spacetime) to account for the curvature caused by gravity.
+
+The development and advancements in physics since Einstein's theory have made it possible to better understand and predict the behavior of matter and energy, including gravity.
+
+
+
+=============== Q&A  6 ===============
+## Prompt: 'What is the hardest natural substance on Earth?'
+## Result:
+The hardest natural substance on Earth is diamond, which has a Hardness Scale rating of 10 on the Mohs scale (also known as the D-mineral). It has a high density and reflectivity, making it indistinguishable from pure carbon, which is also considered to be one of the toughest substances in the world. Diamonds are also highly resistant to scratching, heat, chemical corrosion, and radiation.
+
+
+
